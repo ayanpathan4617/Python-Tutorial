@@ -1,0 +1,1 @@
+print(a.name, a.occupation
